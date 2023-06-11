@@ -51,8 +51,6 @@ p.d {
     <body style="background-color:pink;"></body>
     <h1 style="text-align:center;">BIO DATA</h1>
     
-
-    
 <div>
     <div class="center">
         <p><h2> <p class="a"><b>Name:- PRIYADHARSHINI.P<b></p></h2>
