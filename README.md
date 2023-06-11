@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 </style>
 <head>
@@ -64,6 +65,7 @@ p.d {
 
 </body>
 </html>
+```
 
 
 
